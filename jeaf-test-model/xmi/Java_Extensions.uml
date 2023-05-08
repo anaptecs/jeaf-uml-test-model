@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Standard="http://www.eclipse.org/uml2/schemas/Standard/1" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/2.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/uml2/schemas/Standard/1 pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w">
-  <uml:Model xmi:id="_bCAlV9rQEe2Sd4CV7bBEtw" name="Model" viewpoint="">
-    <ownedComment xmi:id="_bCAlWNrQEe2Sd4CV7bBEtw" body="Author:TillmannSchall.&#xA;Created:24.03.2022 12:55.&#xA;Title:.&#xA;Comment:.&#xA;" annotatedElement="_bCAlV9rQEe2Sd4CV7bBEtw"/>
-    <packageImport xmi:id="_bCAlWdrQEe2Sd4CV7bBEtw">
+  <uml:Model xmi:id="_YtvXgu1vEe2xPvcZUMKydA" name="Model" viewpoint="">
+    <ownedComment xmi:id="_YtvXg-1vEe2xPvcZUMKydA" body="Author:TillmannSchall.&#xA;Created:24.03.2022 12:55.&#xA;Title:.&#xA;Comment:.&#xA;" annotatedElement="_YtvXgu1vEe2xPvcZUMKydA"/>
+    <packageImport xmi:id="_YtvXhO1vEe2xPvcZUMKydA">
       <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
     </packageImport>
-    <packageImport xmi:id="_bCAlWtrQEe2Sd4CV7bBEtw">
+    <packageImport xmi:id="_YtvXhe1vEe2xPvcZUMKydA">
       <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#_0"/>
     </packageImport>
-    <packagedElement xmi:type="uml:Package" xmi:id="_bCBD4NrQEe2Sd4CV7bBEtw" name="Java Extensions">
-      <packagedElement xmi:type="uml:Package" xmi:id="_bCBD4drQEe2Sd4CV7bBEtw" name="java">
-        <packagedElement xmi:type="uml:Package" xmi:id="_bCBD4trQEe2Sd4CV7bBEtw" name="time">
-          <packagedElement xmi:type="uml:Class" xmi:id="_bCBD49rQEe2Sd4CV7bBEtw" name="OffsetDateTime"/>
-          <packagedElement xmi:type="uml:Class" xmi:id="_bCBD5NrQEe2Sd4CV7bBEtw" name="LocalTime"/>
-          <packagedElement xmi:type="uml:Class" xmi:id="_bCBD5drQEe2Sd4CV7bBEtw" name="LocalDate"/>
-          <packagedElement xmi:type="uml:Class" xmi:id="_bCBD5trQEe2Sd4CV7bBEtw" name="LocalDateTime"/>
-          <packagedElement xmi:type="uml:Class" xmi:id="_bCBD59rQEe2Sd4CV7bBEtw" name="OffsetTime"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_YtvXhu1vEe2xPvcZUMKydA" name="Java Extensions">
+      <packagedElement xmi:type="uml:Package" xmi:id="_YtvXh-1vEe2xPvcZUMKydA" name="java">
+        <packagedElement xmi:type="uml:Package" xmi:id="_YtvXiO1vEe2xPvcZUMKydA" name="time">
+          <packagedElement xmi:type="uml:Class" xmi:id="_YtvXie1vEe2xPvcZUMKydA" name="OffsetDateTime"/>
+          <packagedElement xmi:type="uml:Class" xmi:id="_YtvXiu1vEe2xPvcZUMKydA" name="LocalTime"/>
+          <packagedElement xmi:type="uml:Class" xmi:id="_YtvXi-1vEe2xPvcZUMKydA" name="LocalDate"/>
+          <packagedElement xmi:type="uml:Class" xmi:id="_YtvXjO1vEe2xPvcZUMKydA" name="LocalDateTime"/>
+          <packagedElement xmi:type="uml:Class" xmi:id="_YtvXje1vEe2xPvcZUMKydA" name="OffsetTime"/>
         </packagedElement>
       </packagedElement>
     </packagedElement>
-    <profileApplication xmi:id="_bDeccdrQEe2Sd4CV7bBEtw">
-      <eAnnotations xmi:id="_bDecctrQEe2Sd4CV7bBEtw" source="http://www.eclipse.org/uml2/2.0.0/UML">
+    <profileApplication xmi:id="_YupS8e1vEe2xPvcZUMKydA">
+      <eAnnotations xmi:id="_YupS8u1vEe2xPvcZUMKydA" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
       </eAnnotations>
       <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
     </profileApplication>
   </uml:Model>
-  <Standard:ModelLibrary xmi:id="_bDecc9rQEe2Sd4CV7bBEtw" base_Package="_bCBD4NrQEe2Sd4CV7bBEtw"/>
+  <Standard:ModelLibrary xmi:id="_YupS8-1vEe2xPvcZUMKydA" base_Package="_YtvXhu1vEe2xPvcZUMKydA"/>
 </xmi:XMI>
