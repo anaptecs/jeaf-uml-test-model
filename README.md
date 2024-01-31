@@ -2,7 +2,7 @@
 
 
 
-# JEAF Test Model README #
+# JEAF Test Model #
 
 This repository contains the UML test model that is used by multiple projects. Please be aware that the actual model is under version control of MagicDraw Teamwork Server.
 
