@@ -1,5 +1,4 @@
-![Latest Version](https://maven-badges.herokuapp.com/maven-central/com.anaptecs.jeaf.uml/jeaf-uml-test-model-project/badge.svg)
-
+![Maven Central Version](https://img.shields.io/maven-central/v/com.anaptecs.jeaf.uml/jeaf-uml-test-model-project)
 
 
 # JEAF Test Model #
