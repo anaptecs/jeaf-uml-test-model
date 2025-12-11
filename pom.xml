@@ -21,8 +21,15 @@
 		<connection>scm:git:https://github.com/anaptecs/jeaf-uml-test-model.git</connection>
 		<developerConnection>scm:git:https://github.com/anaptecs/jeaf-uml-test-model.git</developerConnection>
 		<url>https://github.com/anaptecs/jeaf-uml-test-model.git</url>
-	  <tag>HEAD</tag>
-  </scm>
+		<tag>HEAD</tag>
+	</scm>
+
+	<distributionManagement>
+		<snapshotRepository>
+			<id>github</id>
+			<url>https://maven.pkg.github.com/anaptecs/jeaf-uml-test-model</url>
+		</snapshotRepository>
+	</distributionManagement>
 
 	<modules>
 		<module>jeaf-test-model</module>
